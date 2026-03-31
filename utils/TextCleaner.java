@@ -1,4 +1,3 @@
-package org.devanshk.utils;
 
 public class TextCleaner {
 

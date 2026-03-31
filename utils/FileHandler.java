@@ -1,5 +1,3 @@
-package org.devanshk.utils;
-
 import java.io.*;
 
 public class FileHandler {

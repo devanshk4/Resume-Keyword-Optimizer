@@ -61,7 +61,6 @@ It uses text processing and keyword extraction techniques to simulate how ATS sy
 ResumeOptimizer/
 │
 ├── src/
-│   └── org/
 │       ├── Main.java
 │       ├── analyzer/
 │       │   ├── ATSMatcher.java
@@ -112,7 +111,7 @@ Looking for Java developer with Spring Boot, SQL, REST API, Microservices.
 ### ▶️ Step 3: Compile & Run
 
 ```
-javac -d . src/org/**/*.java
+javac -d . src/*.java
 java Main
 ```
 

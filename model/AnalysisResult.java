@@ -1,5 +1,3 @@
-package org.devanshk.model;
-
 import java.util.*;
 
 public class AnalysisResult {

@@ -1,0 +1,14 @@
+We are looking for a skilled Java Developer with experience in Spring Boot and Microservices architecture.
+
+Required skills:
+- Strong knowledge of Java and object-oriented programming
+- Experience with Spring Boot framework
+- Hands-on experience in building REST APIs
+- Familiarity with Microservices architecture
+- Experience with Docker and containerization
+- Knowledge of SQL and NoSQL databases like MySQL or MongoDB
+- Understanding of version control systems like Git
+- Basic knowledge of cloud platforms such as AWS
+- Experience with CI/CD pipelines is a plus
+
+Candidates with strong problem-solving skills and experience in scalable system design will be preferred.

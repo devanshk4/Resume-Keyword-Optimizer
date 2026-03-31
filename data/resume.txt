@@ -1,0 +1,12 @@
+Java Developer with 2+ years of experience in building scalable backend systems.
+
+Proficient in Java, Spring Boot, and REST API development.
+Experienced in working with MySQL and MongoDB databases.
+
+Developed microservices-based applications and deployed them using Docker.
+Familiar with version control tools like Git and GitHub.
+
+Strong understanding of object-oriented programming, data structures, and algorithms.
+Worked on performance optimization and debugging of enterprise applications.
+
+Good knowledge of cloud platforms like AWS and basic CI/CD pipelines.

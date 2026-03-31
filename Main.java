@@ -1,10 +1,8 @@
-package org.devanshk;
-
-import org.devanshk.analyzer.ATSMatcher;
-import org.devanshk.analyzer.KeywordExtractor;
-import org.devanshk.model.AnalysisResult;
-import org.devanshk.utils.TextCleaner;
-import org.devanshk.utils.FileHandler;
+import analyzer.ATSMatcher;
+import analyzer.KeywordExtractor;
+import model.AnalysisResult;
+import utils.TextCleaner;
+import utils.FileHandler;
 
 import java.util.*;
 

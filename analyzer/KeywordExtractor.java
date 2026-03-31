@@ -1,5 +1,3 @@
-package org.devanshk.analyzer;
-
 import java.util.*;
 
 public class KeywordExtractor {

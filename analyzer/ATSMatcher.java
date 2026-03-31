@@ -1,7 +1,5 @@
-package org.devanshk.analyzer;
-
 import java.util.*;
-import org.devanshk.model.AnalysisResult;  // ✅ ADD THIS
+import model.AnalysisResult; 
 
 public class ATSMatcher {
 
